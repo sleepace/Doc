@@ -1,3 +1,3 @@
 # Doc
 
-![go to wiki](https://github.com/sleepace/Doc/wiki)
+[go to wiki](https://github.com/sleepace/Doc/wiki)
